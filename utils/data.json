@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "type": "articles",
+    "img": "https://ahmed-abohmaid.github.io/ATG-Task/src/assets/atricle_1.png",
+    "userImg": "https://ahmed-abohmaid.github.io/ATG-Task/src/assets/user_1.png",
+    "userName": "Sarthak Kamra",
+    "name": "✍️ Article",
+    "title": "What if famous brands had regular fonts? Meet RegulaBrands!",
+    "info": "I've worked in UX for the better part of a decade. From now on, I plan to rei…",
+    "views": "1.4K"
+  },
+  {
+    "id": 2,
+    "type": "educations",
+    "img": "https://ahmed-abohmaid.github.io/ATG-Task/src/assets/atricle_2.png",
+    "userImg": "https://ahmed-abohmaid.github.io/ATG-Task/src/assets/user_2.png",
+    "userName": "Sarah West",
+    "name": "🔬️ Education",
+    "title": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+    "info": "I've worked in UX for the better part of a decade. From now on, I plan to rei…",
+    "views": "4.8K"
+  },
+  {
+    "id": 3,
+    "type": "events",
+    "img": "https://ahmed-abohmaid.github.io/ATG-Task/src/assets/atricle_2.png",
+    "userImg": "https://ahmed-abohmaid.github.io/ATG-Task/src/assets/user_3.png",
+    "userName": "Ronal Jones",
+    "name": "🗓️ Meetup",
+    "title": "Finance & Investment Elite Social Mixer @Lujiazui",
+    "location": "Ahmedabad, India",
+    "views": "800",
+    "button": {
+      "type": "event",
+      "text": "Visit Website",
+      "color": "red"
+    },
+    "info_2": "Fri, 12 Oct, 2018"
+  },
+  {
+    "id": 4,
+    "type": "jobs",
+    "img": null,
+    "userImg": "https://ahmed-abohmaid.github.io/ATG-Task/src/assets/user_4.png",
+    "userName": "Joseph Gray",
+    "name": "💼️ Job",
+    "title": "Software Developer",
+    "views": "1.7K",
+    "location": "Noida, India",
+    "button": {
+      "type": "job",
+      "text": "Apply on Timesjobs",
+      "color": "green"
+    },
+    "info_2": "Innovaccer Analytics Private Ltd."
+  },
+  {
+    "id": 5,
+    "type": "educations",
+    "img": null,
+    "userImg": "https://ahmed-abohmaid.github.io/ATG-Task/src/assets/user_4.png",
+    "userName": "Joseph Gray",
+    "name": "🏫 learn",
+    "title": "University",
+    "views": "1.7K",
+    "location": "Noida, India",
+    "button": {
+      "type": "job",
+      "text": "Apply",
+      "color": "green"
+    },
+    "info_2": "Innovaccer Analytics Private Ltd."
+  }
+]
