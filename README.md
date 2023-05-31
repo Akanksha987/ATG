@@ -1,6 +1,3 @@
-# Live : [Project](https://atg-group.netlify.app)
-<br>
-
 ### Lagre Devices
 ![alt text](./src/assets/one.png)
 
